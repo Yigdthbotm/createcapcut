@@ -1,10 +1,10 @@
 {
   "capcutApi": {
     "password": "n3tv4nc3ont0p",
-    "proxyusername": "",
-    "proxypassword": "",
-    "proxyhost": "",
-    "proxyport": "",
+    "proxyusername": "nanas",
+    "proxypassword": "zepiz",
+    "proxyhost": "176.124.46.161",
+    "proxyport": "8000",
     "bearer": "NETVANCE"
   }
 }
